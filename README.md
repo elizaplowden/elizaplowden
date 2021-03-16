@@ -2,7 +2,7 @@ Hi there, I'm Eliza! 👋
 
 I'm a full stack web developer looking for a junior full time or freelance role. 
 I'm currently furthering my knowledge of Ruby on Rails before diving into React. 
-I'm always looking to learn more about coding! 
+I'm always looking to learn more about coding and welcome any advice and resources!
 
 <!--
 **elizaplowden/elizaplowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
