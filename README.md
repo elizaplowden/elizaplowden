@@ -5,7 +5,7 @@ I'm currently furthering my knowledge of Ruby on Rails before diving into React.
 I'm always looking to learn more about coding and welcome any advice and resources!
 
 You can find me here:
-[Twitter](http://twitter.com/elizaplowden) [Instagram](https://www.instagram.com/elizaplowden) 
+[Twitter](http://twitter.com/elizaplowden), [Instagram](https://www.instagram.com/elizaplowden), [Medium](https://www.medium.com/@elizaplowden) 
 <!--
 **elizaplowden/elizaplowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
